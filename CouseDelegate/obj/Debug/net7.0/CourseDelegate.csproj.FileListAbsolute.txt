@@ -1,0 +1,15 @@
+C:\Users\ALESF LUIZ\PROJETOS\CouseDelegate\CouseDelegate\bin\Debug\net7.0\CourseDelegate.exe
+C:\Users\ALESF LUIZ\PROJETOS\CouseDelegate\CouseDelegate\bin\Debug\net7.0\CourseDelegate.deps.json
+C:\Users\ALESF LUIZ\PROJETOS\CouseDelegate\CouseDelegate\bin\Debug\net7.0\CourseDelegate.runtimeconfig.json
+C:\Users\ALESF LUIZ\PROJETOS\CouseDelegate\CouseDelegate\bin\Debug\net7.0\CourseDelegate.dll
+C:\Users\ALESF LUIZ\PROJETOS\CouseDelegate\CouseDelegate\bin\Debug\net7.0\CourseDelegate.pdb
+C:\Users\ALESF LUIZ\PROJETOS\CouseDelegate\CouseDelegate\obj\Debug\net7.0\CourseDelegate.csproj.AssemblyReference.cache
+C:\Users\ALESF LUIZ\PROJETOS\CouseDelegate\CouseDelegate\obj\Debug\net7.0\CourseDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALESF LUIZ\PROJETOS\CouseDelegate\CouseDelegate\obj\Debug\net7.0\CourseDelegate.AssemblyInfoInputs.cache
+C:\Users\ALESF LUIZ\PROJETOS\CouseDelegate\CouseDelegate\obj\Debug\net7.0\CourseDelegate.AssemblyInfo.cs
+C:\Users\ALESF LUIZ\PROJETOS\CouseDelegate\CouseDelegate\obj\Debug\net7.0\CourseDelegate.csproj.CoreCompileInputs.cache
+C:\Users\ALESF LUIZ\PROJETOS\CouseDelegate\CouseDelegate\obj\Debug\net7.0\CourseDelegate.dll
+C:\Users\ALESF LUIZ\PROJETOS\CouseDelegate\CouseDelegate\obj\Debug\net7.0\refint\CourseDelegate.dll
+C:\Users\ALESF LUIZ\PROJETOS\CouseDelegate\CouseDelegate\obj\Debug\net7.0\CourseDelegate.pdb
+C:\Users\ALESF LUIZ\PROJETOS\CouseDelegate\CouseDelegate\obj\Debug\net7.0\CourseDelegate.genruntimeconfig.cache
+C:\Users\ALESF LUIZ\PROJETOS\CouseDelegate\CouseDelegate\obj\Debug\net7.0\ref\CourseDelegate.dll
