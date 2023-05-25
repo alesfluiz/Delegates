@@ -1,5 +1,7 @@
 ﻿using CourseDelegate.Entities;
 using System;
+using System.Linq;
+using System.Reflection.Metadata.Ecma335;
 
 namespace CourseDelegate
 {
@@ -14,13 +16,19 @@ namespace CourseDelegate
             list.Add(new Product("Tablet", 350.00));
             list.Add(new Product("HD Case", 80.90));
 
-            
-            list.ForEach(p => { p.Price += p.Price * 0.1; });
+            Func<Product, string> func = NameUpper; 
 
-            foreach(Product p in list)
+            List<string> result = list.Select(func).ToList();
+
+            foreach (string s in result)
             {
-                Console.WriteLine(p);
+                Console.WriteLine(s);
             }
-        }       
+
+        }
+        static string NameUpper(Product p)
+        {
+            return p.Name.ToUpper();
+        }
     }
 }
